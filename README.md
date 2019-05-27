@@ -1,3 +1,4 @@
 # VAD_MATLAB
-A simple VAD method
-direct run main.m
+A simple VAD method.
+
+To use it you can direct run main.m
